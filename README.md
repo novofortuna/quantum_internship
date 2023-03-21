@@ -70,6 +70,8 @@ Additionally, the number of islands is calculated for the provided examples.
 pip install requirements.txt
 ```
 
+Files `internship_train.csv` and `internship_hidden_test.csv` should be placed in the `data` folder.
+
 ### Solution
 
 The solution consists of two steps:
